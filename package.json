@@ -1,0 +1,24 @@
+{
+  "name": "KellysExerciseApp",
+  "version": "1.0.0",
+  "description": "An app with gentle exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deejpotter/KellysExerciseApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deejpotter/KellysExerciseApp/issues"
+  },
+  "homepage": "https://github.com/Deejpotter/KellysExerciseApp#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
